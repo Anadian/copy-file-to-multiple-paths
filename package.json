@@ -1,0 +1,35 @@
+{
+  "name": "copy-file-to-multiple-paths",
+  "version": "0.0.0",
+  "description": "Copies a single file to multiple destination paths.",
+  "main": "source/main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./source/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/copy-file-to-multiple-paths.git"
+  },
+  "keywords": [
+    "copy",
+    "file",
+    "system",
+    "command",
+    "line",
+    "multiple",
+    "target",
+    "unix",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/copy-file-to-multiple-paths/issues"
+  },
+  "homepage": "https://github.com/Anadian/copy-file-to-multiple-paths#readme"
+}
